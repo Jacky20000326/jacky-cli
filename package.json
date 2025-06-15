@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jacky-lib": "./jacky-lib"
-  } 
+    "jacky-lib": "file:jacky-lib"
+  }
 }
